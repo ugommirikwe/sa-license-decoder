@@ -1,0 +1,26 @@
+{
+  "idNumber": "8609135139012",
+  "idNumberType": "02",
+  "idCountryOfIssue": "ZA",
+  "surname": "SANDERS",
+  "gender": "01",
+  "initials": "J",
+  "birthDate": "1986-09-13",
+  "driverRestrictions": "10",
+  "licenseCountryOfIssue": "ZA",
+  "licenseIssueNumber": "01",
+  "licenseNumber": "6234560001AB",
+  "licenseValidityStart": "2012-11-14",
+  "licenseValidityExpiry": "2017-12-14",
+  "professionalDrivingPermitExpiry": null,
+  "professionalDrivingPermitCodes": [
+
+  ],
+  "vehicleLicenses": [
+    {
+      "code": "B",
+      "restriction": "0",
+      "firstIssueDate": "2007-02-19"
+    }
+  ]
+}
